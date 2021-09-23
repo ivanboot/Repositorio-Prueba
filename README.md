@@ -3,3 +3,7 @@
 *énfasis* (cursiva)
 **énfasis fuerte** (negrita)  
 `Codigo`
+```[Lenguaje]  
+Código en  
+varias lineas
+```  
